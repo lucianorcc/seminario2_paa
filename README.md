@@ -33,6 +33,7 @@ Além disso, o repositório inclui:
 
 🎬 Vídeo Explicativo
 📺 Assista ao vídeo Atividade NP Completude - Problema da Partição de Conjuntos
+
 👉 https://www.youtube.com/watch?v=8g4wdv8K5IU
 
 ## 🎯 Objetivo do Trabalho
@@ -54,3 +55,4 @@ Este repositório reúne:
 ✔ Redução polinomial Subset-Sum → Partition
 ✔ Implementações completas e comentadas
 ✔ Comparação entre abordagens Backtracking e DP
+
