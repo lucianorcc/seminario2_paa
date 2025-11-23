@@ -45,6 +45,7 @@ O objetivo é **estudar, analisar e implementar** algoritmos que resolvem o *Set
 - Otimizações para redução de espaço  
 
 📚 Referências Bibliográficas
+
 CORMEN, Thomas et al. Introduction to Algorithms.
 
 LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms.
@@ -57,5 +58,6 @@ Este repositório reúne:
 ✔ Redução polinomial Subset-Sum → Partition
 ✔ Implementações completas e comentadas
 ✔ Comparação entre abordagens Backtracking e DP
+
 
 
