@@ -46,11 +46,9 @@ O objetivo é **estudar, analisar e implementar** algoritmos que resolvem o *Set
 
 📚 Referências Bibliográficas
 
-CORMEN, Thomas et al. Introduction to Algorithms.
-
-LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms.
-
-COHEN, Eli. Algorithm Design and Analysis.
+- CORMEN, Thomas et al. Introduction to Algorithms.
+- LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms.
+- COHEN, Eli. Algorithm Design and Analysis.
 
 
 🏁 Conclusão
@@ -64,6 +62,7 @@ Este repositório reúne:
 ✔ Implementações completas e comentadas
 
 ✔ Comparação entre abordagens Backtracking e DP
+
 
 
 
