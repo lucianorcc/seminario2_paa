@@ -51,17 +51,13 @@ O objetivo é **estudar, analisar e implementar** algoritmos que resolvem o *Set
 - COHEN, Eli. Algorithm Design and Analysis.
 
 
-🏁 Conclusão
-
+🏁 CONCLUSÃO
 Este repositório reúne:
+- Teoria sobre NP-completude
+- Redução polinomial Subset-Sum → Partition
+- Implementações completas e comentadas
+- Comparação entre abordagens Backtracking e DP
 
-✔ Teoria sobre NP-completude
-
-✔ Redução polinomial Subset-Sum → Partition
-
-✔ Implementações completas e comentadas
-
-✔ Comparação entre abordagens Backtracking e DP
 
 
 
