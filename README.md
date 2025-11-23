@@ -53,7 +53,9 @@ LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms.
 COHEN, Eli. Algorithm Design and Analysis.
 
 🏁 Conclusão
+
 Este repositório reúne:
+
 ✔ Teoria sobre NP-completude
 ✔ Redução polinomial Subset-Sum → Partition
 ✔ Implementações completas e comentadas
