@@ -15,8 +15,13 @@ Este repositório contém os materiais do **Seminário Avaliativo II** da discip
 
 O tema central é o **Problema da Partição de Conjuntos (Set Partition Problem)** — um problema clássico da teoria da NP-Completude e amplamente discutido nas obras de **Cormen**, **Levitin** e **Cohen**.
 
-Foram implementadas duas abordagens:
+👥 EQUIPE: 
+- 🔹 Francisco Farias Gomes
+- 🔹 Silas Lopes Santos Silva Amancio do Vale
+- 🔹 Luciano Torres Marques
+- 🔹 Ramon Adller de Santana
 
+Foram implementadas duas abordagens:
 - 🔹 **Backtracking (Força Bruta Otimizada)**
 - 🔹 **Programação Dinâmica (DP e DP Otimizada)**
 
@@ -26,19 +31,26 @@ Além disso, o repositório inclui:
 - Documentação conceitual
 - Exemplos reprodutíveis
 
----
+🎬 Vídeo Explicativo
+📺 Assista ao vídeo Atividade NP Completude - Problema da Partição de Conjuntos
+👉 https://www.youtube.com/watch?v=8g4wdv8K5IU
 
 ## 🎯 Objetivo do Trabalho
-
 O objetivo é **estudar, analisar e implementar** algoritmos que resolvem o *Set Partition Problem*, reforçando conceitos como:
-
-- NP, NP-hard e NP-completude  
+- NP, NP-Difícil e NP-completude  
 - Reduções polinomiais (Subset-Sum → Partition)  
 - Estratégias de busca  
-- Programação dinâmica clássica  
+- Programação dinâmica 
 - Otimizações para redução de espaço  
 
----
+📚 Referências Bibliográficas
+CORMEN, Thomas et al. Introduction to Algorithms.
+LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms.
+COHEN, Eli. Algorithm Design and Analysis.
 
-## 📂 Estrutura do Repositório
-
+🏁 Conclusão
+Este repositório reúne:
+✔ Teoria sobre NP-completude
+✔ Redução polinomial Subset-Sum → Partition
+✔ Implementações completas e comentadas
+✔ Comparação entre abordagens Backtracking e DP
